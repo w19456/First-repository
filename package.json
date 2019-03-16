@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/w19456/First-repository#readme",
   "devDependencies": {
-    "browser-sync": "^2.26.3"
+    "browser-sync": "2.26.3"
   }
 }
